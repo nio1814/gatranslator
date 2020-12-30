@@ -1,0 +1,397 @@
+ekome	1
+ekome	one
+Ojekoo	good morning
+Minaokoo	good afternoon
+Oshwiee	good evening
+miiŋa bo ei!	greetings to you!
+Te oyɔɔ tɛŋŋ?	how are you?
+Miyɛ ojogbaŋŋ	I am fine
+miyɛ ojogbaŋŋ ei	I'm really fine
+Te atsɛɔ bo tɛŋŋ?	What is your name?
+Atsɛɔ mi	my name is
+Atsɛɔ mi Akua	my name is Akua
+Ofainɛ, atsɛɔ mi Akua.	Please call me Akua.
+Mɛni ji ogbɛi?	what is your name?
+Ofainɛ, mɛni ji ogbɛi?	please, what is your name?
+Migbɛi ji	my name is
+Migbɛi ji Kofi.	my name is Kofi.
+Te atsɛɔ nakai nuu lɛ tɛŋŋ?	what is that man's name?
+Atsɛɔ lɛ Sowa.	His name is Sowa.
+Nyɛbia lɛ egbɛi!	Ask him his name!
+Miyabi lɛ egbɛi.	I went and asked him his name.
+Abi lɛ egbɛi.	He was asked his name.
+oh te a ŋmaa _placeholder_ tɛɛ?	oh, can you spell _placeholder_
+Atsɛɔ hi mami akɛ _placeholder_	my mom is called _placeholder_
+amerika nyo ji bo?	you are american?
+hɛɛ, Amerika nyo ji mi.	yes, I'm American
+ni bo huŋ?	how about you?
+Ni bo hu?	and you?
+Ghana nyo ji mi	I'm Ghanaian
+Afo mi yɛ Ga	I was born in Accra
+mi nyɛmi yoo fio ni	She's my younger sister
+Nɛgbɛ bo yɔɔ?	Where are you from?
+Nɛgbɛ oyaa?	Where are you going?
+Miikase Ga	I am learning Ga.
+miwieɔ Ga kɛ Gua wiemɔ	I speak Ga and Guan language!
+miwieɔ Ga, kɛ Tswii kɛ Blɔfo	I speak Ga, Twi and English
+Ei!	Wow!
+Bɛɛ obɔ mɔdɛŋ waa diɛŋtsɛ!	Then you've done well!
+Yoo!	Okay!
+Wɔbɛ shidaa!	Don't mention it!
+Nɛgbɛ oyɔɔ bianɛ?	where are you right now?
+Nɛgbɛ oyɔɔ bianɛ?	where do you stay right now?
+miyɛ _placeholder_	I stay at _placeholder_
+Mi hu bianɛ, hiyɛ _placeholder_ gbɛ ɛ sɛɛ	I am currently at _placeholder_
+Niyenii ni hisumɔ waa ji jɔlɔf!	my favorite food is jollof
+Ni bo hu, mɛni niyenii osuɔ waa	and you, what is your favorite food?
+Hisumɔ banku kɛ shitɔ kɛ maŋ gbii	I like banku and pepper with dried fish
+No ji niyenii ni misuɔ waa	that's my favorite food
+No hewɔ, biɛ wɔ kɛ nyɛ baa wa	and so here is where we end it
+Te atsɛɔ enɛ tɛŋŋ?	What do you call this?
+Enyiɛ ahɔɔ enɛ?	How much does this cost?
+Ofainɛ tse nɔ	please reduce
+Enɛ enyiɛŋ?	how much is this one?
+nakai ni	That's right
+Ayekoo!	Well done!
+Oyiwala dɔŋŋ	thank you
+Yaaba jogbaŋŋ	goodbye
+Te atsɛɔ yɛ Ga mli tɛŋŋ?	how do you say in Ga?
+Te atsɛɔ _placeholder_ yɛ Ga mli tɛŋŋ?	how do you say _placeholder_ in Ga?
+Te atsɛɔ tɛŋŋ?	how do you say?
+Atsɛɔ lɛ	it is called
+Atsɛɔ lɛ _placeholder_	it is called _placeholder_.
+Te akɛɔ akɛ _placeholder_ yɛ Ga mli tɛŋŋ?	how do you say _placeholder_ in Ga?
+Te akɛɔ akɛ _placeholder_ yɛ Ga mli tɛŋŋ?	how is _placeholder_ said in Ga?
+Te akɛɔ akɛ tɛŋŋ?	how is said?
+Te akɛɔ tɛŋŋ?	how is said?
+Akɛɔ akɛ	it is said
+Etsuru	red
+tsuru	red
+Wuɔfɔ	yellow
+Eŋɔli	green
+Akasesu	blue
+Eyɛŋ	white
+yɛŋ	white
+Lamululamulu	gray
+lamulu	gray
+Ediŋ	black
+diŋ	black
+Asrasu	brown
+Truntrai	spotted
+Ju	Monday
+Jufɔ	Tuesday
+Shɔ	Wednesday
+Soo	Thursday
+Sohaa	Friday
+Hɔɔ	Saturday
+Hɔgbaa	Sunday
+Gbi	day
+Otsi	week
+Nyɛ	yesterday
+Ŋmɛnɛ	today
+Wɔ	tomorrow
+Nyɛ gbɛkɛ	last night
+Leebi neɛ	this morning
+Wɔ leebi	tomorrow morning
+Dani Ju daashɛ	before Monday
+Mina bo yɛ dzɛmɛ.	I saw you there.
+Wɔna bo yɛ dzɛmɛ.	We saw you there.
+Wɔna nyɛ yɛ dzɛmɛ.	We saw all of you there.
+Ona wɔ yɛ dzɛmɛ.	You saw us there.
+Ena mi yɛ dzɛmɛ.	He saw me there.
+Wɔna amɛ yɛ dzɛmɛ.	We saw them there.
+Mile lɛ.	I know him.
+Mileee lɛ.	I don't know him.
+Mileee amɛ.	I don't know them.
+Wɔleee amɛ.	We don't know them.
+Misumɔɔ bo.	I love you.
+Misumɔɔ nyɛ.	I love you.
+Misumɔɔɔ lɛ.	I don't love him.
+Osumɔɔ mi.	You love me.
+Osumɔɔɔ amɛ.	You don't love them.
+Mitsɔɔŋ bo.	I teach you.
+Mitsɔɔŋ nyɛ.	I teach you.
+Otsɔɔŋ mi.	You teach me.
+Amɛtsɔɔŋ wɔ.	They teach us.
+Etsɔɔŋ amɛ.	He teaches them.
+Miiŋa nyɛ.	I'm greeting you.
+Miiŋa bo.	I'm greeting you.
+Oyiwala dɔŋŋ akɛ obaa tsɔɔ mi kaa	thank you for coming to teach me that
+Gbɛi kpakpa hi fe shika	a good name is better than riches
+Miitao maya shia.	I want to go home.
+Miitao madze kpo.	I want to go out.
+Miitao noko maye.	I want something to eat.
+Miitao mahe amo	I want to buy a tomato
+Mimii eshɛ mihe.	I am glad.	
+Mimii eshɛ mihe dzogbaŋŋ.	I am very glad.
+Mimii eshɛ mihe akɛ miku sɛɛ kɛba shia.	I am glad to be home.
+Omli efu lo?	Are you angry?
+Mimli efu.	I am angry.
+Wɔmli efu.	We are angry.
+Emli efu.	He is angry.
+Emli efu.	she is angry.
+Omli efu.	You are angry.
+Mihao.	I am worried.
+Miishe gbeyei.	I am afraid.
+Etɔ mi.	I am tired.
+Wɔmiiye mi.	I am sleepy.
+Hɔmɔ miiye mi.	I am hungry.
+Hɔmɔ miiye mi dzogbaŋŋ.	I am very hungry.
+Miitao noko maye.	I want something to eat.
+Kumai miiye mi.	I am thirsty.
+Ofainɛ yɛɛ nu oha mi.	Please give me some water.
+Mihe efee kulɔɔ.	I am warm.
+Fɛi miiye mi.	I am cold.
+Mihe miiye.	I am ill.
+Minaa hetselɛ.	I don't feel well.
+Mijwɛŋŋ nakai.	I think so.
+Efeɔ mi nakai.	I think so.
+Efee mi nakai.	I don't think so.
+wɔ ye aduawa	we eat fruit
+Mi heɔ blɔfoŋmei.	I buy pineapples. 
+minyiɛ	I walk
+onyiɛ	you walk
+enyiɛ	he walks
+enyiɛ	she walks
+wɔnyiɛ	we walk
+nyɛnyiɛ	you walk
+amɛnyiɛ	they walk
+mimnyiɛ	I am walking
+omnyiɛ	you are walking
+emnyiɛ	he is walking
+emnyiɛ	she is walking
+wɔmnyiɛ	we are walking
+nyɛmnyiɛ	you are walking
+amɛmnyiɛ	they are walking
+mibaanyiɛ	I will walk
+obaanyiɛ	you will walk
+ebaanyiɛ	he will walk
+ebaanyiɛ	she will walk
+wɔbaanyiɛ	we will walk
+nyɛbaanyiɛ	you will walk
+amɛbaanyiɛ	they will walk
+minyiɛ omo	I walked
+onyiɛ omo	you walked
+enyiɛ omo	he will walk
+enyiɛ omo	she will walk
+wɔnyiɛ omo	we will walk
+nyɛnyiɛ omo	you will walk
+amɛnyiɛ omo	they will walk
+Onyiɛ gleŋŋ.	You walk quickly.
+Enyiɛ kubɛkubɛ.	She walks swiftly.
+Wɔnyiɛ fεεfεo.	We walk beautifully.
+Minyiɛ blɛoo.	I walk slowly.
+Enyiɛ blɛoo kɛtee shia.	He walks home slowly.
+Iŋnyiɛ kubɛkubɛ.	I do not walk swiftly.
+Eefa nyiɛmɔ.	She starts walking.
+Gbekɛbii yei lɛ nyiɛ oyayaaya.	The girls walked quickly.
+Aku miikase nyiɛmɔ.	Aku is learning to walk.
+Moko nyiɛ agbo lɛ naa.	Someone is walking outside.
+Enyiɛ tso nɔ tso nɔ.	He's roaming about aimlessly.
+agbo lɛ naa	at the gate
+agbo lɛ naa	by the gate
+Adoley nyiɛ fεɛfεo kɛ tsͻ onukpai ahiɛ.	Adoley walked beautifully past the elders.
+amɛɛnyiɛ kɛ miiya shia	they are walking home
+nyiɛmɔ kɛba biɛ	walk towards here
+nyiɛmɔ kɛya biɛ	walk home
+ahiɛ	their faces
+Nomliɛ Ira le akɛ George ŋnyiɛ esɛɛ.	Ira didn't know that George was following her.
+esɛɛ	her back
+onyɛ	your mother
+aahu	so much
+ofainɛ ba biɛ nɛɛ	please come right here
+ofainɛ yaa jɛmɛ gbɛ	please go over there
+ofainɛ yaa jɛŋ gbɛ	please go over there
+miikpa bo fai	I beg you
+miikpa bo fai ba biɛ	I beg you come here
+miikpa bo fai yaa jɛmɛ	I beg you go there
+onuɔ Ga?	do you understand Ga?
+ɛɛ, hinuɔ Ga	yes, I understand Ga
+daabi, hinuuu Ga	no, I don't understand Ga
+Ŋmɛnɛ ɛ, wɔmiiba ni wɔba kase Ga _placeholder_ kɛ _placeholder_ yɛ nikasemɔ kome mli	today, we are coming to learn Ga _placeholder_ and _placeholder_ in a single lecture
+ŋkɛɛ yoo	I said okay
+ŋkɛɛ oba	I said you should come
+ŋkɛɛ ekolɛ oba	I said you should come maybe
+obaaba ŋmɛnɛ?	will you come today?
+ekɛɛ eeba	he said he is coming
+ekɛɛ ebaaba	he said he will come
+miitaoɔ	I'm searching
+miitaoɔ	I'm looking for
+ootaoɔ	you are searching
+ootaoɔ	you are looking for
+eetaoɔ	he is searching
+eetaoɔ	he is looking for
+wɔɔtaoɔ	we are searching
+wɔɔtaoɔ	we are looking for
+amɛwa mi	they helped me
+nyɛɛwa wɔ	you are helping us
+wɔɔwa nyɛ	we are helping you
+makɛɛ lɛ	I will tell him
+makɛɛ lɛ	I will tell her
+egba wɔ sane	he told us a story
+obaaye nii aloo?	will you eat or not?
+eeye nii	he is eating
+teremɔ lɛ jara tsu ɛ	help him to carry the luggage
+ekɛɛ ekolɛ ebaatɔ lɛ	he said maybe he will be tired
+wɔjɛ Ga	we come from Accra
+wɔtsɔɔ nii	we teach
+wɔɔsha tsɛŋsii mli	we are washing bowls
+wɔbaafa gbɛ	we will travel
+wɔbaakane wolo	we will read
+nyɛwieɔ tsɔ	you talk too much
+nyɛɛtaoɔ	you are searching
+nyɛɛtaoɔ	you are looking for
+nyɛɛsha foto	you are taking a photo
+nyɛɛwa wɔ	you are helping us
+wɔɔwa nyɛ	we are helping you
+nyɛbaaba aloo?	will you come or not?
+ani nyɛbaasuɔ mi?	will you love me?
+nyɛbaala lala	you will sing
+ŋbako	I haven't come yet
+obako	you have not come yet
+wɔleko	we haven't known yet
+wɔleko sane ɛ	we haven't known about the issue/problem
+kane ɛ gboko	the light is not off
+ŋyako shia	I haven't gone home yet
+ŋyako shia	I am not yet home
+miiya shia	I am going home
+miiya we	I am going home
+Hɔgbaa nɛ ɛ, ŋ-nako toiŋjɔlɛ	I haven't had peace of mind since this Sunday
+Eyako kɛjɛ shɔ	he hasn't gone since Wednesday
+ŋtako shi	I haven't sat yet
+etako shi kɛjɛ ju	she hasn't sat since Monday
+etako shi kɛjɛ nyɛ	she hasn't sat since yesterday
+wɔfako gbɛ kɛjɛ hɔgbaa	we haven't travelled since Sunday
+ŋfoŋ	I will not cut
+ŋfoŋ nii	I will not cut anything
+ŋfoŋ akwadu	I won't cut banana
+ŋfoŋ akwadu kɔkɔɔkɔ	I will never cut banana
+ŋwieŋ	I won't talk
+ŋtswaŋ mɔ	I will not call anyone
+ŋtswaŋ mɔko mɔko	I will not call anyone
+etswaŋ mɔko mɔko	he will not call anyone
+etswaŋ mɔko mɔko	she will not call anyone
+ŋfɔŋ nii a he	I wouldn't wash clothes
+ofɔŋ nii a he	you wouldn't wash clothes
+wɔfɔŋ nii a he	we wouldn't wash clothes
+amɛfɔŋ nii a he	they wouldn't wash clothes
+Kofi shaŋ nii a mli	Kofi wouldn't wash the bowls
+ŋshaŋ n-daŋŋ	I wouldn't brush my teeth
+ŋkuŋ ŋyitswɛi	I wouldn't cut my hair
+miiba	I am coming
+ooba	you are coming
+eeba	he is coming
+aaba	one is coming
+wɔɔba	we are coming
+nyɛɛba	you are coming
+amɛɛba	they are coming
+miiya	I am going
+ooya	you are going
+eeya	he is going
+wɔɔya	we are going
+aaba	one is going
+miijo	I am dancing
+oojo	you are dancing
+eejo	he is dancing
+wɔɔjo	we are dancing
+nyɛɛjo	you are dancing
+amɛɛjo	they are dancing
+aajo	one is dancing
+miifee	I am doing
+oofee	you are doing
+eefee	he is doing
+wɔɔfee	we are doing
+nyɛɛfee	you are doing
+amɛɛfee	they are doing
+aafee	one is doing
+miiŋmɛɛ	I am letting go
+ooŋmɛɛ	you are letting go
+eeŋmɛɛ	he is letting go
+wɔɔŋmɛɛ	we are letting go
+nyɛɛŋmɛɛ	you are letting go
+amɛɛŋmɛɛ	they are letting go
+aaŋmɛɛ	one is letting go
+mahe kɔmi	I will buy kenkey
+mahe omɔ	I will buy rice
+mɛni sane?	what is the problem?
+mɛni eba?	what has happened?
+mɛni yaa nɔ?	what is going on?
+mɛni nii?	what thing?
+mɛni nii?	which thing?
+mɛni ni?	what is it?
+mɛni ni?	what is that?
+ebaafee niyeenii ha bo	he will prepare food for you
+wɔbaafee kɛha lɛ	we will do it for him
+wɔbaafee kɛha lɛ	we will do it for her
+miikwa	I am disappointing
+ookwa	you are disappointing
+eekwa	he is disappointing
+eekwa	she is disappointing
+wɔɔkwa	we are disappointing
+nyɛɛkwa	you are disappointing
+amɛɛkwa	they are disappointing
+aakwa	one is disappointing
+miikwa lɛ	I am disappointing him
+Ŋyɔŋmɔ kwaaa mi kɔkɔɔkɔ	God will never disappoint me
+wɔɔkwɛ	we are looking
+nyɛɛkwɛ	you are looking
+amɛɛkwɛ	they are looking
+aakwɛ	one is looking
+makwɛ	I will look
+obaakwɛ	you will look
+ebaakɛ	he will look
+ebaakɛ	she will look
+wɔbaakɛ	we will look
+nyɛbaakwɛ	you will look
+amɛbaakwɛ	they will look
+abaakɛ	one will look
+miikwɛ bɔni ahoɔ niyeenii	I am observing how to cook
+hisuɔ bɔni oyɔɔ	I like how you are
+kwɛmɔ bɔni ahoɔ nii ɛ	look at how you are cooking
+ebɔlɔɔ waa kpakpa	she really shouts loud
+ebɔlɔɔ waa kpakpa	he really shouts loud
+niyeenii ɛ efite	the food is spoiled
+miitsumɔ	I'm cleaning
+ootsumɔ	you are cleaning
+eetsumɔ	he is cleaning
+eetsumɔ	she is cleaning
+miitsumɔ bɔɔdi ɛ nɔ	I'm cleaning the board
+miitsumɔ tsɛŋsii ɛ mli	I'm cleaning the plates
+kumɔmɔ shitɔ ɔ mli	break the pepper into pieces
+nɛgbɛ hi papa yɔɔ?	where is my father?
+hipapa damɔ tɛ ɛ nɔ	my father is standing on the stone
+hipapa damɔ shia mli	my father is standing in the house
+hifeɔ nii waa	I am very hardworking
+hinuɔ Ga	I understand Ga
+hiwieɔ Latɛ	I speak Larteh
+ewieɔ Daŋme	she speaks Dangme
+ewieɔ Daŋme	he speaks Dangme
+Shishijee mli lɛ Nyɔŋmɔ bɔ ŋwɛi kɛ shikpɔŋ.	In the beginning, God created the heavens and the earth.
+Ni shikpɔŋ lɛ yɛ olɛŋlɛ, ni efee flóŋŋ, ni duŋ ha nu babaoo ni ha shikpɔŋ lɛ nɔ lɛ hiɛ; ni Nyɔŋmɔ Mumɔ lɛ ha nu lɛ hiɛ.	The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
+Ni Nyɔŋmɔ fa akɛ, “La aba.” Kɛkɛ ni la ba.	And God said, “Let there be light,” and there was light.
+Ni Nyɔŋmɔ na akɛ la lɛ hi.	And God saw that the light was good.
+Ni Nyɔŋmɔ gbala la lɛ kɛ duŋ lɛ mli.	And God separated the light from the darkness.
+Nyɔŋmɔ tsɛ la lɛ shwane, ni duŋ lɛ etsɛ lɛ nyɔɔŋ.	God called the light Day, and the darkness he called Night. 
+Je na, ni je tsɛre, ni no ji klɛŋklɛŋ gbi lɛ.	And there was evening and there was morning, the first day.
+Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Atatu aba koni eja nu lɛ mli enyɔ.”	And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”
+No hewɔ lɛ, Nyɔŋmɔ fee atatu lɛ ni eja nu lɛ mli enyɔ koni ana nu yɛ atatu lɛ shishi ni ana nu yɛ atatu lɛ yiteŋ	And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse.
+ni eba mli nakai.	 And it was so.
+Nyɔŋmɔ tsɛ he ni atatu lɛ yɔɔ lɛ akɛ ŋwɛi. Je na, ni je tsɛre; no ji gbi ni ji enyɔ lɛ.	And God called the expanse Heaven. And there was evening and there was morning, the second day.
+Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Nu ni yɔɔ ŋwɛishishi lɛ abua ehe naa yɛ he kome, koni ana shikpɔŋ gbiŋ lɛ!”.	And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.”
+Nyɔŋmɔ tsɛ he ni egbi lɛ akɛ shikpɔŋ, ni nu ni ebua ehe naa lɛ etsɛ lɛ ŋshɔ	God called the dry land Earth, and the waters that were gathered together he called Seas.
+ni Nyɔŋmɔ na akɛ ehi.	And God saw that it was good.
+Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Shikpɔŋ lɛ akwɛ̃ bai kɛ tsei kɛ jwɛi; tsei ni woɔ yibii ni wui yɔɔ mli, kɛ yeli tsei ni woɔ yibii ni wui yɔɔ mli, eko fɛɛ eko lɛ yɛ ehenɔ yɛ shikpɔŋ lɛ nɔ!”	And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.”
+Shikpɔŋ lɛ kwɛ̃ tsei kɛ bai kɛ jwɛi; tsei ni woɔ yibii ni wui yɔɔ mli, kɛ yeli tsei ni woɔ yibii ni wui yɔɔ mli, eko fɛɛ eko kɛ ehenɔ yɛ shikpɔŋ lɛ nɔ.	The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind.
+Ni je na, ni je tsɛre; ni no fee gbi ni ji etɛ̃ lɛ.	And there was evening and there was morning, the third day.
+Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Kanei aba ŋwɛi atatu lɛ mli koni amɛtsɔɔ shwane kɛ nyɔɔŋ teŋ srɔto ni amɛtsɔɔ okadii kɛ bei kɛ gbii kɛ afii	And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years
+ni amɛtsɔmɔ kanei yɛ ŋwɛi atatuiaŋ ni amɛtso yɛ shikpɔŋ lɛ nɔ.”	and let them be lights in the expanse of the heavens to give light upon the earth.”
+Nyɔŋmɔ bɔ kanei wuji enyɔ lɛ koni ewulu lɛ aye shwane nɔ ni bibioo lɛ aye nyɔɔŋ nɔ, ni ebɔ ŋulamii lɛ hu.	God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars.
+Nyɔŋmɔ kɛ amɛ wo ŋwɛi atatu lɛ mli koni amɛtso yɛ shikpɔŋ lɛ nɔ	And God set them in the expanse of the heavens to give light on the earth
+koni amɛye shwane kɛ nyɔɔŋ nɔ, ni amɛgbala la lɛ kɛ duŋ lɛ mli.	to rule over the day and over the night, and to separate the light from the darkness.
+Nyɔŋmɔ na akɛ ehi.	God saw that it was good.
+Ni je na ni je tsɛre ni no fee gbi ni ji ejwɛ lɛ.	And there was evening and there was morning, the fourth day.
+Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Nu lɛ awo loi nyɛŋɛnyɛŋɛ, ni loofɔji afliki yɛ ŋwɛi kɔɔyɔɔ lɛ mli!”	And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.”
+No hewɔ lɛ, Nyɔŋmɔ bɔ ŋshɔŋ loi wuji lɛ kɛ nɔ fɛɛ nɔ ni hiɛ ka ni tsiɔ ehe ni nu lɛ ewo nyɛŋɛnyɛŋɛ lɛ. Asaŋ ebɔ loofɔji fɛɛ yɛ amɛhenɔ.	So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind.
+Kɛkɛ ni Nyɔŋmɔ jɔɔ amɛ, ni ekɛɛ, “Nyɛfɔa koni nyɛyi afaa ni nyɛyimɔa fai kɛ ŋshɔ mli obɔbɔ, ni loofɔji afa yɛ shikpɔŋ lɛ nɔ!”	And God blessed them, saying, “Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”
+Ni je na ni je tsɛre, ni efee gbi ni ji enumɔ lɛ.	And there was evening and there was morning, the fifth day.
+
