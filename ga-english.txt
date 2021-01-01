@@ -1,3 +1,13 @@
+niŋmaa okadii lɛ agbɛɛmɔ	sound of the alphabet
+wiemɔkulibii komɛi	some words
+gbii lɛ agbɛii	days of the week
+ŋamɔi kɛ nɔheremɔ	greetings and responses
+gamɛi anibii komɛi	some peculiar things of the gas
+ŋmɔshi nibii komɛi	some farm produce
+gbɔmɔtso he nibii	parts of the body
+hɔgbaa lɛ, jejɔɔmɔ gbi ni	Sunday is a day of rest
+gbii kpawo yɔɔ otsi lɛ mli	seven days make a week
+afɔ mi Ju no hewɔ ni atseɔ mi _placeholder_	I was born on Monday so I am called _placeholder_
 ekome	1
 ekome	one
 Ojekoo	good morning
@@ -139,7 +149,7 @@ Hɔmɔ miiye mi.	I am hungry.
 Hɔmɔ miiye mi dzogbaŋŋ.	I am very hungry.
 Miitao noko maye.	I want something to eat.
 Kumai miiye mi.	I am thirsty.
-Ofainɛ yɛɛ nu oha mi.	Please give me some water.
+Ofainɛ yɛɛ nu ohã mi.	Please give me some water.
 Mihe efee kulɔɔ.	I am warm.
 Fɛi miiye mi.	I am cold.
 Mihe miiye.	I am ill.
@@ -236,7 +246,7 @@ ekɛɛ ekolɛ ebaatɔ lɛ	he said maybe he will be tired
 wɔjɛ Ga	we come from Accra
 wɔtsɔɔ nii	we teach
 wɔɔsha tsɛŋsii mli	we are washing bowls
-wɔbaafa gbɛ	we will travel
+wɔbaafã gbɛ	we will travel
 wɔbaakane wolo	we will read
 nyɛwieɔ tsɔ	you talk too much
 nyɛɛtaoɔ	you are searching
@@ -261,7 +271,7 @@ Eyako kɛjɛ shɔ	he hasn't gone since Wednesday
 ŋtako shi	I haven't sat yet
 etako shi kɛjɛ ju	she hasn't sat since Monday
 etako shi kɛjɛ nyɛ	she hasn't sat since yesterday
-wɔfako gbɛ kɛjɛ hɔgbaa	we haven't travelled since Sunday
+wɔfãko gbɛ kɛjɛ hɔgbaa	we haven't travelled since Sunday
 ŋfoŋ	I will not cut
 ŋfoŋ nii	I will not cut anything
 ŋfoŋ akwadu	I won't cut banana
@@ -373,25 +383,40 @@ Ni Nyɔŋmɔ na akɛ la lɛ hi.	And God saw that the light was good.
 Ni Nyɔŋmɔ gbala la lɛ kɛ duŋ lɛ mli.	And God separated the light from the darkness.
 Nyɔŋmɔ tsɛ la lɛ shwane, ni duŋ lɛ etsɛ lɛ nyɔɔŋ.	God called the light Day, and the darkness he called Night. 
 Je na, ni je tsɛre, ni no ji klɛŋklɛŋ gbi lɛ.	And there was evening and there was morning, the first day.
-Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Atatu aba koni eja nu lɛ mli enyɔ.”	And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”
+Kɛkɛ ni Nyɔŋmɔ fã akɛ, “Atatu aba koni eja nu lɛ mli enyɔ.”	And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”
 No hewɔ lɛ, Nyɔŋmɔ fee atatu lɛ ni eja nu lɛ mli enyɔ koni ana nu yɛ atatu lɛ shishi ni ana nu yɛ atatu lɛ yiteŋ	And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse.
 ni eba mli nakai.	 And it was so.
 Nyɔŋmɔ tsɛ he ni atatu lɛ yɔɔ lɛ akɛ ŋwɛi. Je na, ni je tsɛre; no ji gbi ni ji enyɔ lɛ.	And God called the expanse Heaven. And there was evening and there was morning, the second day.
-Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Nu ni yɔɔ ŋwɛishishi lɛ abua ehe naa yɛ he kome, koni ana shikpɔŋ gbiŋ lɛ!”.	And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.”
+Kɛkɛ ni Nyɔŋmɔ fã akɛ, “Nu ni yɔɔ ŋwɛishishi lɛ abua ehe naa yɛ he kome, koni ana shikpɔŋ gbiŋ lɛ!”.	And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.”
 Nyɔŋmɔ tsɛ he ni egbi lɛ akɛ shikpɔŋ, ni nu ni ebua ehe naa lɛ etsɛ lɛ ŋshɔ	God called the dry land Earth, and the waters that were gathered together he called Seas.
 ni Nyɔŋmɔ na akɛ ehi.	And God saw that it was good.
-Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Shikpɔŋ lɛ akwɛ̃ bai kɛ tsei kɛ jwɛi; tsei ni woɔ yibii ni wui yɔɔ mli, kɛ yeli tsei ni woɔ yibii ni wui yɔɔ mli, eko fɛɛ eko lɛ yɛ ehenɔ yɛ shikpɔŋ lɛ nɔ!”	And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.”
+Kɛkɛ ni Nyɔŋmɔ fã akɛ, “Shikpɔŋ lɛ akwɛ̃ bai kɛ tsei kɛ jwɛi; tsei ni woɔ yibii ni wui yɔɔ mli, kɛ yeli tsei ni woɔ yibii ni wui yɔɔ mli, eko fɛɛ eko lɛ yɛ ehenɔ yɛ shikpɔŋ lɛ nɔ!”	And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.”
 Shikpɔŋ lɛ kwɛ̃ tsei kɛ bai kɛ jwɛi; tsei ni woɔ yibii ni wui yɔɔ mli, kɛ yeli tsei ni woɔ yibii ni wui yɔɔ mli, eko fɛɛ eko kɛ ehenɔ yɛ shikpɔŋ lɛ nɔ.	The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind.
 Ni je na, ni je tsɛre; ni no fee gbi ni ji etɛ̃ lɛ.	And there was evening and there was morning, the third day.
-Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Kanei aba ŋwɛi atatu lɛ mli koni amɛtsɔɔ shwane kɛ nyɔɔŋ teŋ srɔto ni amɛtsɔɔ okadii kɛ bei kɛ gbii kɛ afii	And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years
+Kɛkɛ ni Nyɔŋmɔ fã akɛ, “Kanei aba ŋwɛi atatu lɛ mli koni amɛtsɔɔ shwane kɛ nyɔɔŋ teŋ srɔto ni amɛtsɔɔ okadii kɛ bei kɛ gbii kɛ afii	And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years
 ni amɛtsɔmɔ kanei yɛ ŋwɛi atatuiaŋ ni amɛtso yɛ shikpɔŋ lɛ nɔ.”	and let them be lights in the expanse of the heavens to give light upon the earth.”
 Nyɔŋmɔ bɔ kanei wuji enyɔ lɛ koni ewulu lɛ aye shwane nɔ ni bibioo lɛ aye nyɔɔŋ nɔ, ni ebɔ ŋulamii lɛ hu.	God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars.
 Nyɔŋmɔ kɛ amɛ wo ŋwɛi atatu lɛ mli koni amɛtso yɛ shikpɔŋ lɛ nɔ	And God set them in the expanse of the heavens to give light on the earth
 koni amɛye shwane kɛ nyɔɔŋ nɔ, ni amɛgbala la lɛ kɛ duŋ lɛ mli.	to rule over the day and over the night, and to separate the light from the darkness.
 Nyɔŋmɔ na akɛ ehi.	God saw that it was good.
 Ni je na ni je tsɛre ni no fee gbi ni ji ejwɛ lɛ.	And there was evening and there was morning, the fourth day.
-Kɛkɛ ni Nyɔŋmɔ fa akɛ, “Nu lɛ awo loi nyɛŋɛnyɛŋɛ, ni loofɔji afliki yɛ ŋwɛi kɔɔyɔɔ lɛ mli!”	And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.”
-No hewɔ lɛ, Nyɔŋmɔ bɔ ŋshɔŋ loi wuji lɛ kɛ nɔ fɛɛ nɔ ni hiɛ ka ni tsiɔ ehe ni nu lɛ ewo nyɛŋɛnyɛŋɛ lɛ. Asaŋ ebɔ loofɔji fɛɛ yɛ amɛhenɔ.	So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind.
+Kɛkɛ ni Nyɔŋmɔ fã akɛ, “Nu lɛ awo loi nyɛŋɛnyɛŋɛ, ni loofɔji afliki yɛ ŋwɛi kɔɔyɔɔ lɛ mli!”	And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.”
+No hewɔ lɛ, Nyɔŋmɔ bɔ ŋshɔŋ loi wuji lɛ kɛ nɔ fɛɛ nɔ ni hiɛ kã ni tsiɔ ehe ni nu lɛ ewo nyɛŋɛnyɛŋɛ lɛ. Asaŋ ebɔ loofɔji fɛɛ yɛ amɛhenɔ.	So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind.
 Kɛkɛ ni Nyɔŋmɔ jɔɔ amɛ, ni ekɛɛ, “Nyɛfɔa koni nyɛyi afaa ni nyɛyimɔa fai kɛ ŋshɔ mli obɔbɔ, ni loofɔji afa yɛ shikpɔŋ lɛ nɔ!”	And God blessed them, saying, “Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”
 Ni je na ni je tsɛre, ni efee gbi ni ji enumɔ lɛ.	And there was evening and there was morning, the fifth day.
-
+Kɛkɛ ni Nyɔŋmɔ fã akɛ, “Shikpɔŋ lɛ awo bɔɔnii ni hiɛ kã yɛ amɛhenɔ: shĩa kooloi kɛ kooloi ni wamɔɔ kɛ ŋaŋ kooloi yɛ amɛhenɔ!”	And God said, “Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.”
+Nyɔŋmɔ bɔ ŋaŋ kooloi yɛ amɛhenɔ kɛ shĩaŋ kooloi yɛ amɛhenɔ kɛ nii fɛɛ ni wamɔɔ yɛ shikpɔŋ yɛ amɛhenɔ.	God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind.
+Kɛkɛ ni Nyɔŋmɔ kɛɛ, “Nyɛhãa wɔbɔa gbɔmɔ adesa yɛ wɔsu nɔ, tamɔ wɔhenɔ, koni eye ŋshɔŋ loi kɛ loofɔji kɛ shĩaŋ kooloi kɛ ŋaŋ kooloi fɛɛ kɛ nɔ fɛɛ nɔ ni wamɔɔ yɛ shikpɔŋ lɛ nɔ lɛ nɔ!”	Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
+No hewɔ lɛ, Nyɔŋmɔ bɔ gbɔmɔ adesa yɛ esu nɔ, Nyɔŋmɔ su lɛ nɔ ebɔ lɛ yɛ, ebɔ nuu, ni ebɔ yoo.	So God created man in his own image, in the image of God he created him; male and female he created them.
+Kɛkɛ ni Nyɔŋmɔ jɔɔ amɛ ni ekɛɛ amɛ akɛ, “Nyɛfɔa ni nyɛyi afa. Nyɛyea ŋshɔŋ loi kɛ ŋwɛi loofɔji kɛ nɔ fɛɛ nɔ ni hiɛ kã ni tsiɔ ehe yɛ shikpɔŋ lɛ nɔ lɛ anɔ.”	And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
+Nyɔŋmɔ kɛɛ akɛ, “Naa, mikɛ tsei ni woɔ dumɔwui kɛ tsei ni woɔ yeli yibii ni wui yɔɔ mli ni yɔɔ shikpɔŋ lɛ nɔ lɛ ehã nyɛ koni nyɛye.”	God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food.
+“Kooloo fɛɛ kooloo ni yɔɔ shikpɔŋ lɛ nɔ kɛ kɔɔyɔŋ loofɔlɔ fɛɛ loofɔlɔ kɛ nɔ fɛɛ nɔ ni wamɔɔ yɛ shikpɔŋ lɛ nɔ ni wala mumɔ yɔɔ emli lɛ, mikɛ baa fɔ fɛɛ baa fɔ ehã lɛ koni eye!”	to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.”
+Kɛkɛ ni Nyɔŋmɔ kwɛ nibii ni efee lɛ fɛɛ, ni naa, ehi naakpa.	And God saw everything that he had made, and behold, it was very good.
+Ni je na ni je tsɛre; ni no fee gbi ni ji ekpaa.	And there was evening and there was morning, the sixth day.
+Nɛkɛ ji bɔ ni agbe ŋwɛi kɛ shikpɔŋ kɛ amɛsafoi lɛ fɛɛ bɔɔ naa ahã. 	Thus the heavens and the earth were finished, and all the host of them.
+Be ni shɛ gbi ni ji kpawo lɛ nɔ lɛ, Nyɔŋmɔ egbe enitsumɔ ni etsu lɛ fɛɛ naa; ni ejɔɔ ehe yɛ gbi ni ji kpawo lɛ nɔ.	And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done.
+Nyɔŋmɔ jɔɔ gbi ni ji kpawo lɛ ni efee lɛ krɔŋkrɔŋ, ejaakɛ no nɔ ejɔɔ ehe yɛ, be ni egbe ebɔɔ nitsumɔ ni etsu lɛ fɛɛ naa lɛ.	So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
+Ŋwɛi kɛ shikpɔŋbɔɔ he saji nɛ. Be ni Nuŋtsɔ Nyɔŋmɔ bɔ je lɛ	These are the generations of the heavens and the earth when they were created, in the day that the Lord God made the earth and the heavens.
+ŋa nɔ baa ko bɛ ni ŋa nɔ jwɛi ko nako akwɛ̃ ejaakɛ Nuŋtsɔ Nyɔŋmɔ hãko nu anɛ shikpɔŋ lɛ nɔ, ni gbɔmɔ ko bɛ ni huɔ shikpɔŋ lɛ nɔ.	When no bush of the field was yet in the land and no small plant of the field had yet sprung up—for the Lord God had not caused it to rain on the land, and there was no man to work the ground
+Shi afua teɔ shi kɛjɛɔ shikpɔŋ lɛ nɔ ni etsɔɔ bɔ, ni eshwieɔ shikpɔŋ lɛ fɛɛ nɔ nu.	a mist was going up from the land and was watering the whole face of the ground
+Kɛkɛ ni Nuŋtsɔ Nyɔŋmɔ kɛ shikpɔŋ su shɔ gbɔmɔ, ni emu wala mumɔ ewo egugɔ mli, ni gbɔmɔ tsɔ bɔɔnɔ ni hiɛ kã.	then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.

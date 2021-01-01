@@ -1,12 +1,29 @@
-import tensorflow as tf
-import os
+# Copyright 2020
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
 import io
+import os
 import re
-from sklearn.model_selection import train_test_split
+from argparse import ArgumentParser
+from sys import argv
 from time import time
-from tqdm import tqdm
-from matplotlib import pyplot, ticker
+
 import numpy as np
+import tensorflow as tf
+from matplotlib import pyplot, ticker
+from sklearn.model_selection import train_test_split
+from tqdm import tqdm
 
 
 def preprocess_phrase(phrase):
@@ -203,68 +220,68 @@ class Decoder(tf.keras.Model):
     
     return predictions, state, attention_weights
 
-# file_name = 'spa-eng.zip'
-# file_path_zip = tf.keras.utils.get_file(file_name, origin=f'http://storage.googleapis.com/download.tensorflow.org/data/{file_name}', extract=True)
-# file_path = os.path.join(file_path_zip, 'spa-eng/spa.txt')
-file_path = 'C:\\Users\\niioa\\Google Drive\\ga\\ga-english.txt'
 
-phrases_encoded_ga, phrases_encoded_english, ga, english = load_dataset(file_path)
-max_length_ga = phrases_encoded_ga.shape[1]
-max_length_english = phrases_encoded_english.shape[1]
+if __name__ == "__main__":
+  parser = ArgumentParser()
+  parser.add_argument('--file', type=str, default='ga-english.txt')
+  parser.add_argument('--batch_size', type=int, default=64)
+  arguments = parser.parse_args(argv[1:])
 
-phrases_english_train, phrases_english_validation, phrases_ga_train, phrases_ga_validation = train_test_split(phrases_encoded_english, phrases_encoded_ga, test_size=.2, random_state=123)
+  phrases_encoded_ga, phrases_encoded_english, ga, english = load_dataset(arguments.file)
+  max_length_ga = phrases_encoded_ga.shape[1]
+  max_length_english = phrases_encoded_english.shape[1]
 
-buffer_size = len(phrases_encoded_english)
-batch_size = 64
-num_steps_per_epoch = buffer_size // batch_size
-embedding_size = 256
-num_units = 1024
-vocab_size_ga = len(ga.word_index) + 1
-print(f'{vocab_size_ga} Ga words')
-vocab_size_english = len(english.word_index) + 1
-print(f'{vocab_size_english} English words')
+  phrases_english_train, phrases_english_validation, phrases_ga_train, phrases_ga_validation = train_test_split(phrases_encoded_english, phrases_encoded_ga, test_size=.2, random_state=123)
 
-dataset = tf.data.Dataset.from_tensor_slices((phrases_english_train, phrases_ga_train)).shuffle(buffer_size)
-dataset = dataset.batch(batch_size, drop_remainder=True)
+  buffer_size = len(phrases_encoded_english)
+  num_steps_per_epoch = buffer_size // batch_size
+  embedding_size = 256
+  num_units = 1024
+  vocab_size_ga = len(ga.word_index) + 1
+  print(f'{vocab_size_ga} Ga words')
+  vocab_size_english = len(english.word_index) + 1
+  print(f'{vocab_size_english} English words')
 
-encoder = Encoder(vocab_size_english, embedding_size, num_units)
-decoder = Decoder(vocab_size_ga, embedding_size, num_units)
+  dataset = tf.data.Dataset.from_tensor_slices((phrases_english_train, phrases_ga_train)).shuffle(buffer_size)
+  dataset = dataset.batch(batch_size, drop_remainder=True)
 
-optimizer = tf.keras.optimizers.Adam()
-calculate_cross_entropy = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
+  encoder = Encoder(vocab_size_english, embedding_size, num_units)
+  decoder = Decoder(vocab_size_ga, embedding_size, num_units)
 
-log_directory = os.path.join('logs' ,'ga' ,'0')
-checkpoint = tf.train.Checkpoint(optimizer=optimizer, encoder=encoder, decoder=decoder)
-checkpoint_prefix = os.path.join(log_directory, "ckpt")
-manager = tf.train.CheckpointManager(checkpoint, log_directory, 3)
+  optimizer = tf.keras.optimizers.Adam()
+  calculate_cross_entropy = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
 
-checkpoint.restore(tf.train.latest_checkpoint(log_directory))
-num_log_steps = 100
-num_save_epochs = 2
-num_epochs = 50
-for epoch in tqdm(range(num_epochs), 'epoch'):
-  start = time()
-  state_encoder = encoder.initialize_state(batch_size)
-  loss_total = 0
-  num_steps = 0
-  for (batch_index, (phrases_english, phrases_ga)) in tqdm(enumerate(dataset), 'batch'):
-    batch_loss = train(phrases_english, phrases_ga, state_encoder)
-    loss_total += batch_loss
+  log_directory = os.path.join('logs', '0')
+  checkpoint = tf.train.Checkpoint(optimizer=optimizer, encoder=encoder, decoder=decoder)
+  checkpoint_prefix = os.path.join(log_directory, "ckpt")
+  manager = tf.train.CheckpointManager(checkpoint, log_directory, 3)
 
-    if batch_index % num_log_steps == 0:
-      print(f'epoch {epoch} batch index {batch_index} loss {batch_loss.numpy():.4f}')
-      english_phrase = ' '.join([english.index_word[token.numpy()] for token in phrases_english[0] if token != 0][1:-1])
-      translate(english_phrase)
-      print(f'label: {" ".join([ga.index_word[token.numpy()] for token in phrases_ga[0] if token != 0][1:-1])}')
-  
-    num_steps = max(batch_index + 1, num_steps)
+  checkpoint.restore(tf.train.latest_checkpoint(log_directory))
+  num_log_steps = 100
+  num_save_epochs = 2
+  num_epochs = 50
+  for epoch in tqdm(range(num_epochs), 'epoch'):
+    start = time()
+    state_encoder = encoder.initialize_state(batch_size)
+    loss_total = 0
+    num_steps = 0
+    for (batch_index, (phrases_english, phrases_ga)) in tqdm(enumerate(dataset), 'batch'):
+      batch_loss = train(phrases_english, phrases_ga, state_encoder)
+      loss_total += batch_loss
 
-  if epoch % num_save_epochs == 0:
-    # checkpoint.save(file_prefix=checkpoint_prefix)
-    print('Saving checkpoint')
-    manager.save()
-  print(f'epoch {epoch} loss {loss_total / num_steps:.4f}')
+      if batch_index % num_log_steps == 0:
+        print(f'epoch {epoch} batch index {batch_index} loss {batch_loss.numpy():.4f}')
+        english_phrase = ' '.join([english.index_word[token.numpy()] for token in phrases_english[0] if token != 0][1:-1])
+        translate(english_phrase)
+        print(f'label: {" ".join([ga.index_word[token.numpy()] for token in phrases_ga[0] if token != 0][1:-1])}')
+    
+      num_steps = max(batch_index + 1, num_steps)
 
-manager.save
+    if epoch % num_save_epochs == 0:
+      print('Saving checkpoint')
+      manager.save()
+    print(f'epoch {epoch} loss {loss_total / num_steps:.4f}')
 
-translate('how are you today', True)
+  manager.save
+
+  translate('how are you today', True)
